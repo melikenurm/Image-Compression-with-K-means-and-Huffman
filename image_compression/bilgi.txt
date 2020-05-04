@@ -1,0 +1,7 @@
+ImageCompression.m -> görüntü sýkýþtýrma projesi main fonksiyonu.
+KMeansColorReduction.m -> matris þeklindeki görüntüyü verilen renk sayýsýna indirger.
+hufftree.m -> verilen olasýlýk ve renk no'larý ile huffman aðacýný oluþturur.
+huffencode.m -> renk no'ya karþýlýk gelen kodu huffman aðacýna göre bulur.
+huffdecode.m -> koda karþýlýk gelen renk no'yu huffman aðacýn göre bulur.
+
+m.nur
